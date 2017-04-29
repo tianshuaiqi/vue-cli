@@ -1,8 +1,11 @@
 # vue-cli 
-公司最近有vue需求,故抽了几天时间把vue的基本用法搞了搞,让小伙伴们更快速地上手vue,邮箱： tianshuaiqi@360.cn
+新项目有向vue靠拢倾向，故抽了几天学习了一下，分享交易教程，方便童鞋们更快速上手vue
+****
+### Author:Tian Shuaiqi
+### E-mail:tianshuaiqi@360.cn
+****
 ##  Use vue-cli
 就是用着得劲 <br >
-
 ###### \## 安装node
 ```
 https://nodejs.org/en/download/ 
