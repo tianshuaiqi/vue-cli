@@ -1,4 +1,4 @@
-# vue-cli脚手架工具使用日常(2.0版本哟)
+﻿# vue-cli脚手架工具使用日常(2.0版本哟)
 新项目有向vue靠拢的倾向，故抽了一些零碎时间学习了一下，分享本简易教程，方便童鞋们更快速上手vue
 ****
 ### Author:Tian Shuaiqi
@@ -13,17 +13,24 @@
 * [About vue-vuex](#vue-vuex)
 ### vue-cli
 就是用着得劲 <br >
-###### \## 安装node
+###### \## 没有node的童鞋请安装node
 ```
 https://nodejs.org/en/download/ 
+
 ```
-###### \## 从github上clone vue-cli 简单粗暴
+###### \## 请保持8080端口清洁状态哟，不然会抛出错误
+###### \## 依赖安装
 ```
-https://github.com/vuejs/vue-cli.git 
+cnpm i
+
 ```
-###### \## 运行 vue-cli 
+###### \## 运行 npm run dev
 ```
 npm run dev 
+```
+###### \## 有的童鞋可能会抛出一个异常，那就执行下面命令吧
+```
+cnpm i --save vue-resource
 ```
 ###### \## 相信同学们就看到了vue-cli的欢迎界面了,俩字,怪好看
 ```
