@@ -5,13 +5,13 @@
 ### E-mail:tianshuaiqi@360.cn
 ****
 ## 目录
-* [About Vue-cli](#About Vue-cli)
+* [About Vue-cli](#vue-cli)
 * [About vue-router](#About vue-router)
 * [About vue-resource](#About vue-resource)
 * [About vue-spinner](#About vue-spinner)
 * [Learn communication](#Learn communication)
 * [About vue-vuex](#About vue-vuex)
-##  About Vue-cli
+###  About Vue-cli
 就是用着得劲 <br >
 ###### \## 安装node
 ```
@@ -29,7 +29,7 @@ npm run dev
 ```
 let us begin!
 ```
-## About vue-router
+### About vue-router
 ###### \##  先注释掉eslit，不然恶心死，在build文件夹下的webpack.base.config.js里面哟 <br >
 ![note-eslit.png](https://github.com/tianshuaiqi/vue-cli/blob/tt-dev/imager/note_eslit.png)<br>
 ###### \##  先看整体目录吧 <br >
