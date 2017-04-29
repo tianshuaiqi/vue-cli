@@ -1,9 +1,15 @@
 # vue-cli 
-新项目有向vue靠拢倾向，故抽了几天学习了一下，分享交易教程，方便童鞋们更快速上手vue
+新项目有向vue靠拢的倾向，故抽了一些零碎时间学习了一下，分享本简易教程，方便童鞋们更快速上手vue
 ****
 ### Author:Tian Shuaiqi
 ### E-mail:tianshuaiqi@360.cn
 ****
+## 目录
+* [use vue-cli](#vue-cli)
+* [use vue-resource](#vue-resource)
+* [use vue-spinner](#vue-spinne)
+* [learn communication](#communication)
+* [use vue-vuex](#vue-vuex)
 ##  Use vue-cli
 就是用着得劲 <br >
 ###### \## 安装node
@@ -98,7 +104,7 @@ import MoonLoader from 'vue-spinner/src/MoonLoader.vue'
 ```
 <moon-loader :loading="loading" :color="color" :size="size"></moon-loader>
 ```
-## 父子通信 
+## Learn Communication
 ###### \## parent to child
 ##### \## →→ 现在是在父组件内部，detail-show是子组件
 ```  
