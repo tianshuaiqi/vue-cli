@@ -5,12 +5,12 @@
 ### E-mail:tianshuaiqi@360.cn
 ****
 ## 目录
-* [About Vue-cli](#vue-cli)
-* [About vue-router](#vue-router)
-* [About vue-resource](#vue-resource)
-* [About vue-spinner](#vue-spinne)
-* [Learn communication](#communication)
-* [About vue-vuex](#vue-vuex)
+* [About Vue-cli](#About Vue-cli)
+* [About vue-router](#About vue-router)
+* [About vue-resource](#About vue-resource)
+* [About vue-spinner](#About vue-spinner)
+* [Learn communication](#Learn communication)
+* [About vue-vuex](#About vue-vuex)
 ##  About Vue-cli
 就是用着得劲 <br >
 ###### \## 安装node
