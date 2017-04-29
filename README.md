@@ -1,4 +1,4 @@
-# vue-cli 
+# vue-cli脚手架工具使用日常(2.0版本哟)
 新项目有向vue靠拢的倾向，故抽了一些零碎时间学习了一下，分享本简易教程，方便童鞋们更快速上手vue
 ****
 ### Author:Tian Shuaiqi
@@ -12,7 +12,6 @@
 * [Learn communication](#communication)
 * [About vue-vuex](#vue-vuex)
 ### vue-cli
------------
 就是用着得劲 <br >
 ###### \## 安装node
 ```
@@ -269,4 +268,4 @@ Vue.use(Vuerify)
 </script>
 ```
 ### vue-vuex
-###### \## 暂时就说这么多吧，应该能满足大部分开发了，关于vuex后续再更新哈！可以致邮  tianshuaiqi@360.cn ，以后可能关于前端工程化会更新一些东西吧！
+###### \## 写demo用不到这玩意，等以后体会到它的强大了再更新吧！https://segmentfault.com/p/1210000008583242/read?from=timeline 去逛逛吧！
