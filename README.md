@@ -6,12 +6,13 @@
 ****
 ## 目录
 * [About Vue-cli](#vue-cli)
-* [About vue-router](#About vue-router)
-* [About vue-resource](#About vue-resource)
-* [About vue-spinner](#About vue-spinner)
-* [Learn communication](#Learn communication)
-* [About vue-vuex](#About vue-vuex)
-###  About Vue-cli
+* [About vue-router](#vue-router)
+* [About vue-resource](#vue-resource)
+* [About vue-spinner](#vue-spinner)
+* [Learn communication](#communication)
+* [About vue-vuex](#vue-vuex)
+### vue-cli
+-----------
 就是用着得劲 <br >
 ###### \## 安装node
 ```
@@ -29,7 +30,7 @@ npm run dev
 ```
 let us begin!
 ```
-### About vue-router
+### vue-router
 ###### \##  先注释掉eslit，不然恶心死，在build文件夹下的webpack.base.config.js里面哟 <br >
 ![note-eslit.png](https://github.com/tianshuaiqi/vue-cli/blob/tt-dev/imager/note_eslit.png)<br>
 ###### \##  先看整体目录吧 <br >
@@ -49,7 +50,7 @@ let us begin!
 ###### \##  二级路由的视图<br >
 ![table-view.png](https://github.com/tianshuaiqi/vue-cli/blob/tt-dev/imager/table_view.png)<br>
 ###### \##  路由这块就懂了撒，哈哈哈，简单吧！<br >
-## About vue-resource
+### vue-resource
 处理vue异步http请求
 ###### \## 安装vue-resource
 ```
@@ -92,7 +93,7 @@ this.$http.put('http:172.10.21.21:8080/example.php' + this.id,this.sentParams)
 ```
 this.$http.delete请求('http:172.10.21.21:8080/example.php' + this.sentParams)
 ```
-## About vue-spinner
+## vue-spinner
 ###### \## 安装vue-spinner
 ```
 cnpm i vue-spinner --save-dev
@@ -105,7 +106,7 @@ import MoonLoader from 'vue-spinner/src/MoonLoader.vue'
 ```
 <moon-loader :loading="loading" :color="color" :size="size"></moon-loader>
 ```
-## Learn communication
+### communication
 ###### \## parent to child
 ##### \## →→ 现在是在父组件内部，detail-show是子组件
 ```  
@@ -215,7 +216,7 @@ import MoonLoader from 'vue-spinner/src/MoonLoader.vue'
 </script>
 ```
 ###### \## 在我的github上有分页组件，大家可以查看一下
-## About  vue-Vuerify 
+### vue-Vuerify 
 ###### \## vue-Vuerify 安装
 ```
 cnpm i vue-vuerify --save-dev
@@ -267,5 +268,5 @@ Vue.use(Vuerify)
   }
 </script>
 ```
-##  About vue-vuex
+### vue-vuex
 ###### \## 暂时就说这么多吧，应该能满足大部分开发了，关于vuex后续再更新哈！可以致邮  tianshuaiqi@360.cn ，以后可能关于前端工程化会更新一些东西吧！
